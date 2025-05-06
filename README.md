@@ -17,6 +17,11 @@ Currently, I’m an Infrastructure Automation Apprentice at Florida Blue, where 
 - Proficient in: C#, Python, HTML/CSS, and currently learning JavaScript, Java, and more!
 - Skills: Defect Triage, Queue Management, Wireframing
 
+## Projects
+
+- You can view the source code for one of my favorite personal projects here: [Insect Website Source Code](https://github.com/Nelson-Levi/WDD-131---Dynamic-Web-Fundamentals/tree/main/insects)
+- You can view the website here! [Insect Website](https://nelson-levi.github.io/WDD-131---Dynamic-Web-Fundamentals/insects/index.html)
+
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/levi-nelson-ba49852ab/) profile!
