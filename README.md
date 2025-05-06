@@ -1,16 +1,22 @@
-## Hi there 👋
+# Levi Nelson
 
-<!--
-**Nelson-Levi/Nelson-Levi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at BYU-Idaho with a 4.0 GPA and a passion for building efficient, user-focused technology. Over the past two years, I’ve been honored with a full-tuition academic scholarship, which reflects my commitment to excellence and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m an Infrastructure Automation Apprentice at Florida Blue, where I triage incidents, manage high-volume automation queues, and contribute to process improvements alongside experienced engineers. I previously designed a website from the ground up for a startup, applying UX and wireframing principles to deliver a professional and functional product.
+
+## About Me
+
+- I'm currently learning the Java language.
+- My goals are to develop my skills and practice software engineering daily!
+- Ask me about automated processes!
+
+## Technologies and Tools
+
+- Proficient in: C#, Python, HTML/CSS, and currently learning JavaScript, Java, and more!
+- Skills: Defect Triage, Queue Management, Wireframing
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/levi-nelson-ba49852ab/) profile!
