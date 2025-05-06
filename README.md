@@ -20,3 +20,8 @@ Currently, I’m an Infrastructure Automation Apprentice at Florida Blue, where 
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/levi-nelson-ba49852ab/) profile!
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Nelson-Levi&theme=dark)](https://git.io/streak-stats)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Levi&layout=compact)
+
+
