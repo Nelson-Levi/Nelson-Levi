@@ -9,7 +9,7 @@ Currently, I’m an Infrastructure Automation Apprentice at Florida Blue, where 
 ## About Me
 
 - I'm currently learning the Java language.
-- My goals are to develop my skills and practice software engineering daily!
+- My goals are to develop my skills by practicing software engineering daily!
 - Ask me about automated processes!
 
 ## Technologies and Tools
