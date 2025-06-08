@@ -15,7 +15,7 @@ Currently, I’m an Infrastructure Automation Apprentice at Florida Blue, where 
 ## Technologies and Tools
 
 - Proficient in: C#, Python, HTML/CSS, and currently learning JavaScript, Java, and more!
-- Skills: Defect Triage, Queue Management, Wireframing
+- Skills: Defect Triage, Infrastructure Automation, Object-Oriented Programming
 
 ## Projects
 
